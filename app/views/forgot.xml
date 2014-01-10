@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<TextField id="txtEmail" hintText="Cual es su email?"></TextField>
+		<Button id="btnForgot">Recordar</Button>
+	</Window>
+</Alloy>

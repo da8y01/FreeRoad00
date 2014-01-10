@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<TextArea id="areaPost" hintText="Que evento observo?"></TextArea>
+		<Button id="btnAddPost">Nuevo</Button>
+	</Window>
+</Alloy>

@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<TextField id="txtUser" hintText="Ingresar usuario"></TextField>
+		<TextField id="txtPass" hintText="Ingresar contraseña" passwordMask="true"></TextField>
+		<Button id="btnDoLogin">Entrar</Button>
+		<Label id="lblRegister">Registro</Label>
+		<Label id="lblForgot">Olvido de contraseña</Label>
+	</Window>
+</Alloy>

@@ -1,0 +1,16 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<TableView id="cityTable">
+			<TableViewRow>Bogota</TableViewRow>
+			<TableViewRow>Medellin</TableViewRow>
+			<TableViewRow>Cali</TableViewRow>
+			<TableViewRow>Barranquilla</TableViewRow>
+			<TableViewRow>Manizales</TableViewRow>
+			<TableViewRow>Pereira</TableViewRow>
+			<TableViewRow>Armenia</TableViewRow>
+			<TableViewRow>Bucaramanga</TableViewRow>
+			<TableViewRow>Cartagena</TableViewRow>
+			<TableViewRow>Santa Marta</TableViewRow>
+	    </TableView>
+	</Window>
+</Alloy>
